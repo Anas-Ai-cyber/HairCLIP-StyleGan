@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="image.png" alt="HairCLIP+ Output" width="600"/>
+</p>
 
 ## ✨ HairCLIP+ — AI-Powered Hairstyle Modification with CLIP and StyleGAN
 
