@@ -90,7 +90,3 @@ The model then generates a realistic image of the user with the new hairstyle us
 ### 📜 License
 
 MIT License
-
----
-
-Would you like me to generate a `README.md` file with this content formatted and ready to use in your GitHub repo?
