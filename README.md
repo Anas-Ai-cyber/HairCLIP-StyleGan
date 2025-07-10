@@ -1,6 +1,3 @@
-Here’s a professional and detailed **GitHub project description** you can use for your hybrid CLIP + StyleGAN hairstyle modification project based on the **Coiffure dataset**:
-
----
 
 ## ✨ HairCLIP+ — AI-Powered Hairstyle Modification with CLIP and StyleGAN
 
